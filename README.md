@@ -1,4 +1,3 @@
-
 # ☕ The Coffee Bean — Logo Redesign Project
 
 ## 🎯 Task Overview
@@ -23,7 +22,7 @@ This iteration explores premium brand positioning, shifting the identity from an
 ---
 
 ### 🌙 Variation 03: The Digital-First Contemporary Concept
-![Variation 3](./CodeAlpha%20varinat%203THE%20COFFEE%20BEAN.png)
+![Variation 3](./CodeAlha%20varinat%203THE%20COFFEE%20BEAN%20(1).jpg)
 
 Designed with a digital-first lifestyle focus, this variation targets digital natives and mobile-centric consumers. The asset features a technical 'Dark Mode' canvas that minimizes screen glare and allows the central element to pop aggressively. Breaking traditional coffee branding conventions, the typography introduces a vibrant, progressive color gradient that shifts seamlessly across warm color spectrums.
 
